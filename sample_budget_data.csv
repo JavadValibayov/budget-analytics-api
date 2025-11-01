@@ -1,0 +1,25 @@
+date,category,amount,type,description
+2024-01-05,Groceries,-120.5,expense,Weekly groceries
+2024-01-10,Transportation,-45.0,expense,Gas
+2024-01-15,Entertainment,-80.0,expense,Movie tickets
+2024-01-20,Utilities,-150.0,expense,Electric bill
+2024-01-25,Groceries,-95.3,expense,Groceries
+2024-02-05,Groceries,-110.2,expense,Weekly groceries
+2024-02-10,Healthcare,-200.0,expense,Doctor visit
+2024-02-15,Entertainment,-65.0,expense,Concert
+2024-02-20,Utilities,-155.0,expense,Internet
+2024-02-25,Transportation,-50.0,expense,Uber
+2024-03-05,Groceries,-130.0,expense,Weekly groceries
+2024-03-10,Shopping,-250.0,expense,New clothes
+2024-03-15,Entertainment,-90.0,expense,Dinner out
+2024-03-20,Utilities,-160.0,expense,Water bill
+2024-03-25,Groceries,-105.0,expense,Groceries
+2024-04-05,Groceries,-140.0,expense,Weekly groceries
+2024-04-10,Transportation,-55.0,expense,Gas
+2024-04-15,Entertainment,-75.0,expense,Movie night
+2024-04-20,Shopping,-300.0,expense,Shopping spree
+2024-04-25,Utilities,-165.0,expense,Phone bill
+2024-01-01,Salary,3500.0,income,Monthly salary
+2024-02-01,Salary,3500.0,income,Monthly salary
+2024-03-01,Salary,3500.0,income,Monthly salary
+2024-04-01,Salary,3500.0,income,Monthly salary
